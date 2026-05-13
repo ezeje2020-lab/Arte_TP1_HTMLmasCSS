@@ -1,0 +1,67 @@
+*{
+    border: solid black 1px;
+}
+header{
+    border-bottom: solid black 1px;
+    margin-bottom: 1%;
+    height: 20%;
+}
+
+body{
+    margin: 0px;
+}
+
+.burguesa{
+    width: 20%;
+    height: 20%;
+    margin-left: 45%;
+    float: left;
+}
+nav ul{
+   display: inline-block; 
+}
+nav ul li{
+    width: 20%;
+    float: left;
+}
+
+/*EXTRACTO DE TP6 LANDING PAGE
+
+nav{
+    float: left;
+    font-size: 0.75em;
+    width: 60%;
+    text-align: center;
+    margin-top: 3%;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: rgb(255, 229, 113);
+    margin-bottom: 3%;
+}
+nav ul li {
+    border-radius: 5px;
+    width: 50%;
+    display: inline-block;
+    list-style: none;
+}*/
+
+footer ul li img{
+    width: 3%;
+    height: 3%;
+}
+
+.class1{
+    margin-right: 1%;
+    width: 50%;
+    height: 80%;
+}
+
+.class2{
+    width: 20%;
+    height: 80%;
+    float: left;
+}
+
+.class3 div{
+    margin: 1%;
+}
